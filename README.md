@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2942-find-words-containing-character](https://github.com/ShriyaM50/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShriyaM50/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShriyaM50/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/ShriyaM50/Leetcode/tree/master/0709-to-lower-case) |
+| [2942-find-words-containing-character](https://github.com/ShriyaM50/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
