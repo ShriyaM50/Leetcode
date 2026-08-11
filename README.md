@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ShriyaM50/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/ShriyaM50/Leetcode/tree/master/0771-jewels-and-stones) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
