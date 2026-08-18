@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/ShriyaM50/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShriyaM50/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShriyaM50/Leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/ShriyaM50/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShriyaM50/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
