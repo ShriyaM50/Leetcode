@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShriyaM50/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShriyaM50/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ShriyaM50/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ShriyaM50/Leetcode/tree/master/0392-is-subsequence) |
@@ -58,6 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShriyaM50/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShriyaM50/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShriyaM50/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
