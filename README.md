@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriyaM50/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriyaM50/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/ShriyaM50/Leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/ShriyaM50/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShriyaM50/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShriyaM50/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShriyaM50/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShriyaM50/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
