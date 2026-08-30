@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriyaM50/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShriyaM50/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/ShriyaM50/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -29,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShriyaM50/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ShriyaM50/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/ShriyaM50/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ShriyaM50/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Monotonic Stack
 |  |
