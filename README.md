@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/ShriyaM50/Leetcode/tree/master/0724-find-pivot-index) |
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShriyaM50/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2942-find-words-containing-character](https://github.com/ShriyaM50/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -107,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ShriyaM50/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShriyaM50/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
