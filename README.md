@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShriyaM50/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShriyaM50/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/ShriyaM50/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ShriyaM50/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
