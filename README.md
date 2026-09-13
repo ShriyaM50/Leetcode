@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ShriyaM50/Leetcode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/ShriyaM50/Leetcode/tree/master/0835-image-overlap) |
 | [1408-string-matching-in-an-array](https://github.com/ShriyaM50/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShriyaM50/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ShriyaM50/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShriyaM50/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/ShriyaM50/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
