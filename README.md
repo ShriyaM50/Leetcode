@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShriyaM50/Leetcode/tree/master/0015-3sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShriyaM50/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ShriyaM50/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ShriyaM50/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ShriyaM50/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ShriyaM50/Leetcode/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShriyaM50/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/ShriyaM50/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ShriyaM50/Leetcode/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShriyaM50/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShriyaM50/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ShriyaM50/Leetcode/tree/master/3731-find-missing-elements) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShriyaM50/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShriyaM50/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ShriyaM50/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/ShriyaM50/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ShriyaM50/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShriyaM50/Leetcode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ShriyaM50/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ShriyaM50/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
